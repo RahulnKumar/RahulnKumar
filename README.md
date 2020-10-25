@@ -4,7 +4,7 @@
 * I'm an AI, BCI enthusiast.  
 * Currently working on EEG MI signal Classification with few shot learning.   
 * I love meeting new people and learning new things, so please feel free to say hello.  
-  Contacts : [LinkedIn]('https://www.linkedin.com/in/rahulnkumar/')  [Twitter]('https://twitter.com/Rahulku75398808')
+  Contacts : ![LinkedIn]('https://www.linkedin.com/in/rahulnkumar/')  ![Twitter]('https://twitter.com/Rahulku75398808')
 
 
 <!--
