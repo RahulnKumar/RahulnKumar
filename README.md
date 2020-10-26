@@ -3,7 +3,7 @@
 * I'm Rahul, final year Master's student at IIT Patna.    
 * I'm an AI, BCI enthusiast.  
 * Currently working on EEG MI signal Classification with few shot learning.   
-* I love meeting new people and learning new things, so please feel free to say hello.  
+* I love meeting new people and learning new things, so please feel free to say hello 🙂.   
 
 <!--
 **RahulnKumar/RahulnKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
