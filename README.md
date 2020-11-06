@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Rahul here 🤗
 
 * I'm Rahul, final year Master's student at IIT Patna.    
 * I'm an AI, BCI enthusiast.  
