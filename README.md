@@ -5,6 +5,10 @@
 * Currently working on decoding neural signals with a Multi-task Ensemble framework.   
 * I love meeting new people and learning new things, so please feel free to say hello 🙂.   
 
+
+<a href="https://stackoverflow.com/users/12268103/rahul"><img src="https://stackoverflow.com/users/flair/12268103.png?theme=clean" width="208" height="58" alt="profile for Rahul at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rahul at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
 <!--
 **RahulnKumar/RahulnKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
