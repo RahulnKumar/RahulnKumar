@@ -1,4 +1,4 @@
-### Hi there 👋, Rahul here 🤗
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Rahul here 🤗
 
 * I'm Rahul, final year Master's student at IIT Patna.    
 * I'm an AI, BCI enthusiast.  
