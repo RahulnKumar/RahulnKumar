@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Visitor Count](https://profile-counter.glitch.me/{rahulnkumar}/count.svg)
--->
-<br><br><br><br><br><br><br><br><br>
+
 <a href="https://stackoverflow.com/users/12268103/rahul"><img src="https://stackoverflow.com/users/flair/12268103.png?theme=clean" width="208" height="58" alt="profile for Rahul at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rahul at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-<br><br>
+-->
+<br><br><br><br><br><br><br><br><br><br>
 ![](https://komarev.com/ghpvc/?username=rahulnkumar)
