@@ -28,7 +28,7 @@
 
 [medium]: https://medium.com/@rahulnkumar/
 [kaggle]: https://www.kaggle.com/rahulnkumar
-[twitter]: https://twitter.com/rahulnkumar
+[twitter]: https://twitter.com/rahulnkumar7
 [linkedin]: https://www.linkedin.com/in/rahulnkumar/
 
 
