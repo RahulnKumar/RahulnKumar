@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Rahul here 🤗
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35">, Rahul here 🤗
 
 * Data Scientist at Trell.    
 * I'm an AI, BCI enthusiast.  
