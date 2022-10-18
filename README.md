@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35">, Rahul here 🤗
 
-* Data Scientist at Trell.    
+* Machine Learning Engineer at Ola.    
 * I'm an AI, BCI enthusiast.  
 * I love meeting new people and learning new things, so please feel free to say hello 🙂.   
 
