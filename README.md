@@ -14,13 +14,13 @@
 
 
 
-### 📚 My Latest Medium Stories
+### 📚 My Latest Blogs
 <!-- MEDIUM-STORY-LIST:START -->
-- [Debugging Spark Job](https://medium.com/@rahulnkumar/debugging-spark-job-eafd82c82a20)
-- [Pandas to PySpark](https://medium.com/@rahulnkumar/pandas-to-pyspark-33269e8607c3)
-- [Spark Basics](https://medium.com/@rahulnkumar/spark-basics-c75ae2b9525d)
-- [Packaging Python Projects](https://medium.com/@rahulnkumar/packaging-python-projects-b0b0f4287471)
-- [Hypothesis Evaluation](https://medium.com/@rahulnkumar/hypothesis-evaluation-a5da3d4ba5b)
+- [Generative Adversarial Networks](https://techtalkverse.com/post/artificial-intelligence/gans/)
+- [LLM Basics](https://techtalkverse.com/post/artificial-intelligence/llm-basics/)
+- [Spark Basics](https://techtalkverse.com/post/software-development/spark_basics/)
+- [Fast API Deployment in K8s](https://techtalkverse.com/post/software-engineering/k8s-deployement/)
+- [Hypothesis Evaluation](https://techtalkverse.com/post/artificial-intelligence/hypothesis-evaluation/)
 
 <!-- MEDIUM-STORY-LIST:END -->
 
